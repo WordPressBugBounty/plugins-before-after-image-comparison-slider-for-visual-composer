@@ -5,7 +5,7 @@
  * Author: Plugin Devs
  * Author URI: https://plugin-devs.com/
  * Plugin URI: https://plugin-devs.com/product/before-after-slider-for-wpbakery/
- * Version: 2.0.1
+ * Version: 2.0.2
  * Text Domain: before-after-image-comparison-slider-for-visual-composer
  * Domain Path: languages
  */

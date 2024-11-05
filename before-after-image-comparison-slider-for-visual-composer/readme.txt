@@ -1,10 +1,10 @@
 ﻿Before After Image Comparison Slider for WPBakery Page Builder
 Contributors: plugindevs
 Tags: visual composer before after slider, visual composer before after image comparison slider, before after slider, before after image slider, before after image comparison slider, visual composer image comparison slider
-Requires at least: 4.6
-Tested up to: 6.4.3
+Requires at least: 5.0
+Tested up to: 6.7
 Stable tag: trunk
-Requires PHP: 5.5
+Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -88,6 +88,10 @@ Clear your browser cache and check again
 Please clear your browser cache and if you are using any caching plugin then clear cache from WordPress Admin too and check again.
 
 == Changelog ==
+= 2.0.2 (11-05-24) =
+# Tested with Latest WordPress Version
+# Tested with Latest WPBakery Version
+
 = 2.0.1 (02-16-24) =
 # Tweak CSS
 # Tested with Latest WordPress Version

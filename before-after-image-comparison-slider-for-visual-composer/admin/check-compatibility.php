@@ -34,7 +34,7 @@ class WB_VC_BAIC_Check_Compatibility {
      *
      * @var string Minimum PHP version required to run the plugin.
      */
-    const MINIMUM_PHP_VERSION = '5.5';
+    const MINIMUM_PHP_VERSION = '7.4';
 
     /**
 	 * Constructor
